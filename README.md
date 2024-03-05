@@ -1,5 +1,5 @@
-### Hi there 👋, I am Lucas
+### Muito prazer 👋, me chamo Lucas
 
-- 🌱 I’m always learning: *JavaScript*, *ReactJS*, *React Native*, *TypeScript*, *PHP* and *Java*
-- 📫 How to reach me: xrosoff@gmail.com
-- ⚡ Fun fact: I was pro player
+- 🌱 Eu estou sempre aprendendo: *Laravel*, *ReactJS*, *React Native*, *TypeScript*, *.NET* and *UI Design*
+- 📫 Como me contatar: xrosoff@gmail.com || luca@quantumtheorem.com.br
+- ⚡ Fato curioso: Já fui pro player de LoL
