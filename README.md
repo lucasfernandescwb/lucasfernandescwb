@@ -1,5 +1,4 @@
-### Muito prazer 👋, me chamo Lucas
-
-- 🌱 Eu estou sempre aprendendo: **PHP**, **JS**, e **JAVA**
-- 📫 Como me contatar: luca@quantumtheorem.com.br
-- ⚡ Fato curioso: Já fui pro player de LoL
+# Nice to meet you 👋, I'm Lucas
+🌱 Always learning: **PHP**, **JavaScript**, and **Java**
+📫 Reach me at: luca@quantumtheorem.com.br
+⚡ Fun fact: I used to be a pro LoL player!
